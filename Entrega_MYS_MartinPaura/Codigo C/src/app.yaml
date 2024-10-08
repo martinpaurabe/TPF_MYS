@@ -1,0 +1,3 @@
+domain_path: C:\Users\mpaur\.Xilinx\PruebaVitis\project_mys\project_mys\vitis_project_mys_rev3\mys_rev3\export\mys_rev3\sw\standalone_ps7_cortexa9_0
+app_src_dir: C:\Xilinx\Vitis\2024.1\data\embeddedsw\lib\sw_apps\hello_world
+template: hello_world
